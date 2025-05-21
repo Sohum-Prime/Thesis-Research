@@ -1,3 +1,5 @@
+# Research Copilot - Technical Stack and Pipeline Design
+
 _**Hypothesis Generation → Literature Study** → Experimentation (Code Generation & Execution) → Reporting (Paper Generation & Review)_
 
 ---
