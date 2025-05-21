@@ -1,0 +1,15 @@
+[project]
+name = "research"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bs4>=0.0.2",
+    "gradio>=5.29.0",
+    "marimo>=0.13.7",
+    "openai>=1.78.1",
+    "polars>=1.29.0",
+    "pyarrow>=20.0.0",
+    "pyvis>=0.3.2",
+]
