@@ -1,1 +1,0 @@
-Extracting the 'Plan-Act-Correct-Verify' framework presented in LLaMAR: Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments to build abstractions and interfaces around to build a more generalist upstream multi-agent team planning and execution framework with LMs at the helm.
